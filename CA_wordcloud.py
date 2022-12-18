@@ -4,7 +4,7 @@ from konlpy.tag import Okt
 import pandas as pd
 
 # app = FastAPI()
-# @app.get("/RO_category")
+# @app.get("/CA_wordcloud")
 def CA_wordcloud() :
     cafe_keywords_df = pd.read_csv("naver_cafe_Data.csv", encoding='utf-8-sig')
 
