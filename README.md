@@ -1,5 +1,7 @@
 # sanhak-ml
-## Performance
-- MUI Material Temaplate을 활용한 React 페이지 개발
+## Purpose
+- Machine Learning을 활용한 데이터 정제 및 유사도 분석
 
-## Page demo
+## Performance
+- Upload
+- 
